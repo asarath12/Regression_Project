@@ -46,6 +46,11 @@ venv\Scripts\Activate.ps1
 venv\Scripts\activate.bat
 ```
 
+### **3. Install requirements.txt**
+```bash
+pip install requirements.txt
+```
+
 ---
 
 ## 📦 Install Dependencies
