@@ -114,6 +114,16 @@ This creates:
 
 ---
 
+### 📌 Example Outputs
+
+#### Part I – Collinearity & PCA
+![Part I](./images/part1_analysis.png)
+
+#### Part II – Variable Selection
+![Part II](./images/part2_analysis.png)
+
+---
+
 ## 📑 Output Files
 
 - **part1_analysis.png** – Full dataset collinearity + PCA/PCR visuals  
